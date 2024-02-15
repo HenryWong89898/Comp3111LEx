@@ -14,4 +14,4 @@ This is my first lab in <b>Comp3111 - Software Engineering</b>
 Here's the <i>screenshot</i> of my 1st lab in intelliJ:
 </p>
 
-![screenshot](screenshot.png)
+![screenshot](/main/java/Lab1/screenshot.png)
